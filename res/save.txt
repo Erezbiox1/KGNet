@@ -1,0 +1,1 @@
+{"Players":{"Erez":{"op":false,"password":"Pass","balance":500},"Admin":{"op":true,"password":"Pass","balance":500.0}}}
