@@ -7,5 +7,5 @@ import com.erezbiox1.gamecomm.Overlayed.KGNet
 
 fun main(args: Array<String>){
     val server = KGNet(6070)
-    server.
+
 }
